@@ -22,6 +22,6 @@
 ## 第二週投影片 03/10
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
-| if else     |   | [if else][hsinchu-if-else]|
+| if else     |   | [if else][hsinchu-if-else]
 
 [hsinchu-if-else]: https://drive.google.com/open?id=11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s
